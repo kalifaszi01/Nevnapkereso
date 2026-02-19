@@ -64,7 +64,7 @@ namespace kalapacsvetes
                 Console.WriteLine(
                     "A magyarok.txt fájl sikeresen létrehozva!");
 
-
+    
 
             }
         }
